@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Zo_App_UI_WPF.ViewModels
 {
+
+   // Note-WM  Communication Between VMs
    public class ContactDetailsViewModel : ViewModelBase
    {
       // Note-VM:  45:00ish tutorial https://www.youtube.com/watch?v=54ZmhbpjBmg&list=PLA8ZIAm2I03hm1xwjWWE_gLLNpqJA3E3j&index=1
